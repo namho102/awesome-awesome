@@ -7,6 +7,7 @@
  * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
  * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
  * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+ * [What happens when](https://github.com/alex/what-happens-when)
 
 ## Development Environment
  * [Awesome Shell](https://github.com/alebcay/awesome-shell)
@@ -27,6 +28,9 @@
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 * [Data Science Process Management](https://github.com/jeongyoonlee/data-science-process-management)
 * [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+* [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+* [Common data analysis and machine learning tasks using Python](https://github.com/ujjwalkarn/DataSciencePython)
+* [Data and code behind the stories and interactives at FiveThirtyEight](https://github.com/fivethirtyeight/data)
 
 ## Web Development
 * [React Components & Libraries](https://github.com/brillout/awesome-react-components)
@@ -43,6 +47,7 @@
 * [MEAN Stack Guide](https://github.com/ericdouglas/MEAN-Learning)
 * [Awesome JavaScript ](https://github.com/sorrycc/awesome-javascript)
 * [ES6 Features](https://github.com/lukehoban/es6features)
+* [ES6 for Humans](https://github.com/metagrover/ES6-for-humans)
 * [JavaScript Path](https://github.com/javascript-society/javascript-path)
 * [Awesome React](https://github.com/enaqx/awesome-react)
 * [Awesome Angular](https://github.com/AngularClass/awesome-angular)
@@ -55,6 +60,8 @@
 * [Awesome design systems](https://github.com/alexpate/awesome-design-systems)
 * [Web developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [Awesome Node.js Projects](https://github.com/sqreen/awesome-nodejs-projects)
+* [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
@@ -62,6 +69,8 @@
 * [Awesome Android](https://github.com/JStumpp/awesome-android)
 * [awesome-android](https://github.com/snowdream/awesome-android)
 * [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
+* [Tips and tricks for Android Development](https://github.com/nisrulz/android-tips-tricks)
+* [Buffer Android Guidelines](https://github.com/bufferapp/android-guidelines)
 
 ## Other Resources
 * [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
