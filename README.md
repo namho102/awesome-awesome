@@ -1,5 +1,4 @@
 #  My curated list of awesome lists [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 ## Interview 
  * [The Best Frontend JavaScript Interview Questions: Answers](https://github.com/bcherny/frontend-interview-questions)
  * [Vietnamese Frontend Interview Questions](https://github.com/duyetdev/vietnamese-frontend-interview-questions)
@@ -13,16 +12,21 @@
  * [Awesome Shell](https://github.com/alebcay/awesome-shell)
  * [Sublime Text 3 Plugins for Frontend Web Development](https://github.com/jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development)
  * [Bash Guide](https://github.com/Idnan/bash-guide)
+ * [Terminals Are Sexy ](https://github.com/k4m4/terminals-are-sexy)
 
-## Computer Science
+## Python & Algorithm
+* [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 * [Pythonic Data Structures and Algorithms](https://github.com/keon/algorithms)
-* [Open Source Society University](https://github.com/ossu/computer-science)
+* [100 days of algorithms](https://github.com/coells/100days)
 
 ## Data Science & Machine Learning
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)
 * [Awesome Data Science ](https://github.com/bulutyazilim/awesome-datascience)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+* [Data Science Process Management](https://github.com/jeongyoonlee/data-science-process-management)
+* [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
 ## Web Development
 * [React Components & Libraries](https://github.com/brillout/awesome-react-components)
@@ -44,6 +48,13 @@
 * [Awesome Angular](https://github.com/AngularClass/awesome-angular)
 * [ES6](https://github.com/bevacqua/es6)
 * [JS Tips](https://github.com/loverajoel/jstips)
+* [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
+* [The JavaScript Way book](https://github.com/bpesquet/thejsway)
+* [Practical Node.js](https://github.com/azat-co/practicalnode)
+* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [Awesome design systems](https://github.com/alexpate/awesome-design-systems)
+* [Web developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
@@ -52,15 +63,14 @@
 * [awesome-android](https://github.com/snowdream/awesome-android)
 * [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
 
-## Python
-* [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
-
 ## Other Resources
 * [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 * [free-for-dev](https://github.com/ripienaar/free-for-dev)
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [Typefaces for source code beautification](https://github.com/chrissimpkins/codeface)
 * [Remote-friendly companies](https://github.com/remoteintech/remote-jobs)
-
-
-    
+* [A guide to contributing to open source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+* [Open Source Society University](https://github.com/ossu/computer-science)
+* [Learn regex](https://github.com/zeeshanu/learn-regex)
+* [Design Patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding)
