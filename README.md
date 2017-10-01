@@ -8,6 +8,7 @@
  * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
  * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
  * [What happens when](https://github.com/alex/what-happens-when)
+ * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 ## Development Environment
  * [Awesome Shell](https://github.com/alebcay/awesome-shell)
