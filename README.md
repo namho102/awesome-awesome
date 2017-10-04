@@ -9,17 +9,21 @@
  * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
  * [What happens when](https://github.com/alex/what-happens-when)
  * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+ * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 ## Development Environment
  * [Awesome Shell](https://github.com/alebcay/awesome-shell)
  * [Sublime Text 3 Plugins for Frontend Web Development](https://github.com/jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development)
  * [Bash Guide](https://github.com/Idnan/bash-guide)
  * [Terminals Are Sexy ](https://github.com/k4m4/terminals-are-sexy)
+ * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 ## Python & Algorithm
 * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 * [Pythonic Data Structures and Algorithms](https://github.com/keon/algorithms)
 * [100 days of algorithms](https://github.com/coells/100days)
+* [Python books](https://github.com/Junnplus/awesome-python-books)
+* [JavaScript implementation of different computer science algorithms.](https://github.com/mgechev/javascript-algorithms)
 
 ## Data Science & Machine Learning
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -32,6 +36,8 @@
 * [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 * [Common data analysis and machine learning tasks using Python](https://github.com/ujjwalkarn/DataSciencePython)
 * [Data and code behind the stories and interactives at FiveThirtyEight](https://github.com/fivethirtyeight/data)
+* [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
+* [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide)
 
 ## Web Development
 * [React Components & Libraries](https://github.com/brillout/awesome-react-components)
@@ -63,6 +69,13 @@
 * [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Awesome Node.js Projects](https://github.com/sqreen/awesome-nodejs-projects)
 * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
+* [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb)
+* [JS Bits](https://github.com/vasanthk/js-bits)
+* [frontend dev resources](https://github.com/dmytroyarmak/frontend-dev-resources)
+* [You Don't Know Node](https://github.com/azat-co/you-dont-know-node)
+* [Awesome Redux](https://github.com/xgrommx/awesome-redux)
+* [React/Redux Links](https://github.com/markerikson/react-redux-links)
+* [JS  Tips](https://github.com/loverajoel/jstips)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
@@ -84,3 +97,7 @@
 * [Learn regex](https://github.com/zeeshanu/learn-regex)
 * [Design Patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding)
+* [Public APIs](https://github.com/toddmotto/public-apis)
+* [Today I Learned](https://github.com/jbranchaud/til)
+* [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer)
+* [Style Guides](https://github.com/Khan/style-guides)
