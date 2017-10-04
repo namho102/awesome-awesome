@@ -9,7 +9,6 @@
  * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
  * [What happens when](https://github.com/alex/what-happens-when)
  * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
- * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 ## Development Environment
  * [Awesome Shell](https://github.com/alebcay/awesome-shell)
@@ -45,7 +44,6 @@
 * [React Learning](https://github.com/ericdouglas/react-learning)
 * [Just! Build! Websites!](https://github.com/melanierichards/just-build-websites)
 * [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
-* [Public APIs](https://github.com/toddmotto/public-apis)
 * [React/Redux Links](https://github.com/markerikson/react-redux-links)
 * [Frontend stuff](https://github.com/moklick/frontend-stuff)
 * [JavaScript Demos](https://github.com/bennadel/JavaScript-Demos)
@@ -74,8 +72,9 @@
 * [frontend dev resources](https://github.com/dmytroyarmak/frontend-dev-resources)
 * [You Don't Know Node](https://github.com/azat-co/you-dont-know-node)
 * [Awesome Redux](https://github.com/xgrommx/awesome-redux)
-* [React/Redux Links](https://github.com/markerikson/react-redux-links)
-* [JS  Tips](https://github.com/loverajoel/jstips)
+* [JS Tips](https://github.com/loverajoel/jstips)
+* [Awesome Promises](https://github.com/wbinnssmith/awesome-promises)
+* [JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
