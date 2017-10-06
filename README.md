@@ -9,6 +9,7 @@
  * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
  * [What happens when](https://github.com/alex/what-happens-when)
  * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+ * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
 
 ## Development Environment
  * [Awesome Shell](https://github.com/alebcay/awesome-shell)
