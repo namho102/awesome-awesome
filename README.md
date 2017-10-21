@@ -101,3 +101,4 @@
 * [Today I Learned](https://github.com/jbranchaud/til)
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer)
 * [Style Guides](https://github.com/Khan/style-guides)
+* [Daniel's Notes](https://github.com/DDCreationStudios/Writing)
