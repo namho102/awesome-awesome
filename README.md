@@ -76,6 +76,7 @@
 * [JS Tips](https://github.com/loverajoel/jstips)
 * [Awesome Promises](https://github.com/wbinnssmith/awesome-promises)
 * [JavaScript Style Guide](https://github.com/airbnb/javascript)
+* [Modern JS Cheatseat](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
