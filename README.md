@@ -77,6 +77,7 @@
 * [Awesome Promises](https://github.com/wbinnssmith/awesome-promises)
 * [JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Modern JS Cheatseat](https://github.com/mbeaudru/modern-js-cheatsheet)
+* [Node.JS best practices list](https://github.com/i0natan/nodebestpractices)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
