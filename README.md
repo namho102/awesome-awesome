@@ -10,6 +10,7 @@
  * [What happens when](https://github.com/alex/what-happens-when)
  * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
  * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
+ * [Interviews](https://github.com/kdn251/interviews)
 
 ## Development Environment
  * [Awesome Shell](https://github.com/alebcay/awesome-shell)
