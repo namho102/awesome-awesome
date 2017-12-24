@@ -80,6 +80,7 @@
 * [Modern JS Cheatseat](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [Node.JS best practices list](https://github.com/i0natan/nodebestpractices)
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+* [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
