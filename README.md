@@ -74,7 +74,6 @@
 * [frontend dev resources](https://github.com/dmytroyarmak/frontend-dev-resources)
 * [You Don't Know Node](https://github.com/azat-co/you-dont-know-node)
 * [Awesome Redux](https://github.com/xgrommx/awesome-redux)
-* [JS Tips](https://github.com/loverajoel/jstips)
 * [Awesome Promises](https://github.com/wbinnssmith/awesome-promises)
 * [JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Modern JS Cheatseat](https://github.com/mbeaudru/modern-js-cheatsheet)
