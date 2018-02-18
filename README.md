@@ -81,6 +81,7 @@
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 * [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code)
 * [RealWorld example apps](https://github.com/gothinkster/realworld)
+* [Awesome Micro](https://github.com/amio/awesome-micro)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
