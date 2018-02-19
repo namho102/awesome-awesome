@@ -25,6 +25,7 @@
 * [100 days of algorithms](https://github.com/coells/100days)
 * [Python books](https://github.com/Junnplus/awesome-python-books)
 * [JavaScript implementation of different computer science algorithms.](https://github.com/mgechev/javascript-algorithms)
+* [Migrating to Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure)
 
 ## Data Science & Machine Learning
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
