@@ -11,6 +11,7 @@
  * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
  * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
  * [Interviews](https://github.com/kdn251/interviews)
+ * [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 
 ## Development Environment
  * [Awesome Shell](https://github.com/alebcay/awesome-shell)
