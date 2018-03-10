@@ -84,6 +84,7 @@
 * [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code)
 * [RealWorld example apps](https://github.com/gothinkster/realworld)
 * [Awesome Micro](https://github.com/amio/awesome-micro)
+* [Project Guidelines](https://github.com/wearehive/project-guidelines)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
