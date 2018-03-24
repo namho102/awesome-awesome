@@ -85,6 +85,7 @@
 * [RealWorld example apps](https://github.com/gothinkster/realworld)
 * [Awesome Micro](https://github.com/amio/awesome-micro)
 * [Project Guidelines](https://github.com/wearehive/project-guidelines)
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
