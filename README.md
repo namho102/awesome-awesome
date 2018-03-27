@@ -86,6 +86,7 @@
 * [Awesome Micro](https://github.com/amio/awesome-micro)
 * [Project Guidelines](https://github.com/wearehive/project-guidelines)
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+* [frontend case studies](https://github.com/andrew--r/frontend-case-studies)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
