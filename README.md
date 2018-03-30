@@ -114,3 +114,4 @@
 * [Style Guides](https://github.com/Khan/style-guides)
 * [Daniel's Notes](https://github.com/DDCreationStudios/Writing)
 * [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
+* [Awesome Code Review](https://github.com/joho/awesome-code-review)
