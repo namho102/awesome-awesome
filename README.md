@@ -117,3 +117,4 @@
 * [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 * [Awesome Code Review](https://github.com/joho/awesome-code-review)
 * [Awesome Cheatseats](https://github.com/LeCoupa/awesome-cheatsheets)
+* [Awesome Developer Streams](https://github.com/bnb/awesome-developer-streams)
