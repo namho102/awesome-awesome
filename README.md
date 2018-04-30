@@ -87,6 +87,7 @@
 * [Project Guidelines](https://github.com/wearehive/project-guidelines)
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 * [frontend case studies](https://github.com/andrew--r/frontend-case-studies)
+* [Awesome ](https://github.com/dzharii/awesome-typescript)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
