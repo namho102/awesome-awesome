@@ -41,6 +41,7 @@
 * [Data and code behind the stories and interactives at FiveThirtyEight](https://github.com/fivethirtyeight/data)
 * [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
 * [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide)
+* [OpenDataScience Machine Learning course](https://github.com/Yorko/mlcourse_open)
 
 ## Web Development
 * [React Components & Libraries](https://github.com/brillout/awesome-react-components)
@@ -88,6 +89,7 @@
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 * [frontend case studies](https://github.com/andrew--r/frontend-case-studies)
 * [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)
+* [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
