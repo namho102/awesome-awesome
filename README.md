@@ -90,6 +90,7 @@
 * [frontend case studies](https://github.com/andrew--r/frontend-case-studies)
 * [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)
 * [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
+* [Auth Boss](https://github.com/teesloane/Auth-Boss)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
