@@ -121,3 +121,4 @@
 * [Awesome Code Review](https://github.com/joho/awesome-code-review)
 * [Awesome Cheatseats](https://github.com/LeCoupa/awesome-cheatsheets)
 * [Awesome Developer Streams](https://github.com/bnb/awesome-developer-streams)
+* [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
