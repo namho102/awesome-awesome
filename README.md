@@ -20,13 +20,11 @@
  * [Terminals Are Sexy ](https://github.com/k4m4/terminals-are-sexy)
  * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
-## Python & Algorithm
-* [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
+## Data structures and Algorithms
 * [Pythonic Data Structures and Algorithms](https://github.com/keon/algorithms)
 * [100 days of algorithms](https://github.com/coells/100days)
-* [Python books](https://github.com/Junnplus/awesome-python-books)
 * [JavaScript implementation of different computer science algorithms.](https://github.com/mgechev/javascript-algorithms)
-* [Migrating to Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure)
+* [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
 ## Data Science & Machine Learning
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -100,6 +98,11 @@
 * [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
 * [Tips and tricks for Android Development](https://github.com/nisrulz/android-tips-tricks)
 * [Buffer Android Guidelines](https://github.com/bufferapp/android-guidelines)
+
+## Python
+* [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
+* [Python books](https://github.com/Junnplus/awesome-python-books)
+* [Migrating to Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure)
 
 ## Other Resources
 * [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
