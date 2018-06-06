@@ -90,6 +90,8 @@
 * [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)
 * [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
 * [Auth Boss](https://github.com/teesloane/Auth-Boss)
+* [React in patterns](https://github.com/krasimir/react-in-patterns)
+* [Awesome list of GraphQL & Relay](https://github.com/chentsulin/awesome-graphql)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
