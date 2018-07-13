@@ -92,6 +92,7 @@
 * [Auth Boss](https://github.com/teesloane/Auth-Boss)
 * [React in patterns](https://github.com/krasimir/react-in-patterns)
 * [Awesome list of GraphQL & Relay](https://github.com/chentsulin/awesome-graphql)
+* [Front-End Design Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
