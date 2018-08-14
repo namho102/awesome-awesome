@@ -94,6 +94,7 @@
 * [Awesome list of GraphQL & Relay](https://github.com/chentsulin/awesome-graphql)
 * [Front-End Design Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 * [Vue patterns](https://github.com/learn-vuejs/vue-patterns)
+* [React developer roadmap](https://github.com/adam-golab/react-developer-roadmap)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
