@@ -95,6 +95,7 @@
 * [Front-End Design Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 * [Vue patterns](https://github.com/learn-vuejs/vue-patterns)
 * [React developer roadmap](https://github.com/adam-golab/react-developer-roadmap)
+* [React from zero](https://github.com/kay-is/react-from-zero)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
