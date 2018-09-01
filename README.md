@@ -136,3 +136,4 @@
 * [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 * [Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x)
 * [Learning resources](https://github.com/pseweryn/learning)
+* [Awesome Code Review](https://github.com/joho/awesome-code-review)
