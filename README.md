@@ -98,6 +98,7 @@
 * [React from zero](https://github.com/kay-is/react-from-zero)
 * [React-Redux styleguide](https://github.com/iraycd/React-Redux-Styleguide)
 * [JavaScript Design Patterns for humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
+* [Vue RealWorld example](https://github.com/gothinkster/vue-realworld-example-app)
 
 ## Java & Android
 * [Useful Java links](https://github.com/Vedenin/useful-java-links)
