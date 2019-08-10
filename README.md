@@ -13,6 +13,7 @@
  * [Interviews](https://github.com/kdn251/interviews)
  * [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
  * [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews)
+ * [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 
 ## Development Environment
  * [Awesome Shell](https://github.com/alebcay/awesome-shell)
